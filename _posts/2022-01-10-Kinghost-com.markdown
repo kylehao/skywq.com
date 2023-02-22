@@ -2,7 +2,7 @@
 layout: post
 title: "老牌免费空间-Kinghost.com 无限空间/无限流量/静态空间/支持绑米"
 date:   2022-01-10 18:05:55 +0300
-image:  10.jpg
+image:  02.jpg
 tags:
 - 虚拟主机
 - 免费
