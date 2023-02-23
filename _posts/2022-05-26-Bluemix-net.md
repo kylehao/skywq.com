@@ -3,7 +3,7 @@ layout: post
 title: Bluemix.net IBM提供的256M/IBM Cloud Lite/10天无开发活动自动休眠
 tags:
 - VPS
-image:  24.jpg
+image:  14.jpg
 ---
 
 ### 申请地址
