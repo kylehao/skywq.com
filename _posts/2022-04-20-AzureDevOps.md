@@ -3,7 +3,7 @@ layout: post
 title: Azure DevOps微软无限的私人存储库（Git和TFS）/最多5个用户/团队
 tags:
 - 代码托管
-image:  24.jpg
+image:  20.jpg
 ---
 
 
