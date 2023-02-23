@@ -3,7 +3,7 @@ layout: post
 title: Huaweicloud.com 华为云SWR/免费Docker容器镜像服务/搭建无限容量不限速的网盘/可外链
 tags:
 - Docker镜像
-image:  15.jpg
+image:  19.jpg
 ---
 
 ### 官网地址
