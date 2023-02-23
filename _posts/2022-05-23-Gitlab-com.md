@@ -3,7 +3,7 @@ layout: post
 title: Gitlab.com 免费pages服务，无限空间，可搭建静态主页，静态博客，可绑米
 tags:
 - Pages
-image:  18.jpg
+image:  10.jpg
 ---
 
 ### 官网地址
