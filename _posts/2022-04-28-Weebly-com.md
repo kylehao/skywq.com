@@ -3,7 +3,7 @@ layout: post
 title: Weebly.com 自助建站/不能绑域名
 tags:
 - 自助建站
-image:  19.jpg
+image: 23.jpg
 ---
 
 
