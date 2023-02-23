@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YOPmai.com 临时免费邮箱地址/可绑域名/测试收不到邮件
+title: YOPmail.com 临时免费邮箱地址/可绑域名/测试收不到邮件
 tags:
 - 邮箱
 image: 17.jpg
