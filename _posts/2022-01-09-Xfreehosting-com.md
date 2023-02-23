@@ -4,7 +4,7 @@ title: 老牌免费空间-Xfreehosting.com 999M空间/无限流量/静态空间/
 tags:
 - 虚拟主机
 - 免费
-image:  02.jpg
+image:  06.jpg
 ---
 
 ### 999M空间/无限流量/静态空间/支持绑米
