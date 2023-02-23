@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ONotion+Vercel搭建博客+cfpages绑定域名加速
+title: Notion+Vercel搭建博客+cfpages绑定域名加速
 tags:
 - 博客
 image:  07.jpg

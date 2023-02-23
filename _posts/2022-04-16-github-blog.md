@@ -1,6 +1,6 @@
 ---
 layout: post
-title: github 开源项目零成本搭建个人博客
+title: Github 开源项目零成本搭建个人博客
 tags:
 - 博客
 image:  08.jpg
