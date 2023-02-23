@@ -4,7 +4,7 @@ layout: post
 title: ShareList快速挂载GoogleDrive、OneDrive、天翼云、蓝奏云等网盘同时挂载
 tags:
 - 自建网盘
-image: 17.jpg
+image: 20.jpg
 ---
 
 
