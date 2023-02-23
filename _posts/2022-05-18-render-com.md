@@ -3,7 +3,7 @@ layout: post
 title: Render.com 100G流量/从Git进行的自动部署/静态网页免费/支持绑定域名
 tags:
 - Pages
-image:  10.jpg
+image:  06.jpg
 ---
 
 ### 官网地址
