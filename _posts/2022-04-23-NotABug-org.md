@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JNotABug.org 是用于基于Git的免费许可项目的免费软件代码协作平台
+title: NotABug.org 是用于基于Git的免费许可项目的免费软件代码协作平台
 tags:
 - 代码托管
 image:  22.jpg
